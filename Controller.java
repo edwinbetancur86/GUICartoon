@@ -1,5 +1,5 @@
 /*****************************************************
-   	Written by Edwin Betancur for CSCI 221
+   	Written by Edwin Betancur 
  ***************************************************
 	This GUI application displays a haunted house,
 	allows the user to choose between night 
